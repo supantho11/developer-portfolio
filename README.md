@@ -5,7 +5,7 @@ terminal codes to push items or files
 
 echo "# developer-portfolio" >> README.md
 git init
-git add README.md
+git add git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/supantho11/developer-portfolio.git
